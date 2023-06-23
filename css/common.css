@@ -3,6 +3,7 @@
 /* 共通のスタイル */
 /*body*/
 body{
+    overflow-x: hidden;
     margin: 0 auto;
     background-color: #bbb;
     width: 600px;
